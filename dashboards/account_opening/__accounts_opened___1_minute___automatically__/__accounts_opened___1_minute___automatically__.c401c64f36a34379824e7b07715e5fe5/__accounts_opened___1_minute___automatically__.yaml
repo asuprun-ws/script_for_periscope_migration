@@ -1,0 +1,10 @@
+chart_type: Number Overlay
+database_name: pantheon-satori
+display_name: '% Accounts Opened < 1 minute ("automatically")'
+encrypted_definition: vKR5p96py3ETSo0J7JFycfTTIsr4vXHgNHxkFiHt8Jc+zZn+dzWYAo1PLvlPeMVn25vNo4u+RBPafp/Tug7mdSwUjE5mXbX87ekfho+Qi4B1Ru8s42M2HwtEo2qnQ2Nddzn+C7fV9yLtYyx+kESSzjPZbMoZdmWwZIGCvH4eHup+J3tIvP/7pwQVBHPUPjNh5xifbHQ3UHGRpJG/LbXwG+hJIxBOizPdtWMkoQ+ZJnLoCwa9xTGXi7lJ+Sn49NAIkxxvDHw7xF1OFC0PtHKNBV9HuVt/S8phpwmXsJs2iBEBJy+8rYvBY6ocCzGiF98QLspSqSFVCtCvI5pBNfeDIAbX0vtoMzyq18Y128DCvqE=
+position:
+  left: 29
+  top: 13
+size:
+  height: 10
+  width: 14

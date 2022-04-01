@@ -1,0 +1,16 @@
+#!/bin/zsh
+
+rename_charts() {
+    for subdir in $( cd "$1" && find . -type d -maxdepth 1 -mindepth 1 -execdir echo '{}' ';');
+    do
+      new_chart_name=$( echo "$subdir" | sed 's/\..*$//' )
+      ( mv "$1/$subdir" "$1/$new_chart_name")
+    done
+}
+
+for dir in $( find . -type d -maxdepth 1 -mindepth 1 -execdir echo '{}' ';');
+do
+  rename_charts "$dir"
+  new_dashboard_name=$( echo "$dir" | sed 's/\..*$//' )
+  ( mv "$dir" "$new_dashboard_name")
+done

@@ -1,0 +1,39 @@
+configured_filters:
+  hidden_filters:
+  - Account_Type: {}
+  - account_type: {}
+  - branch: {}
+  visible_filters:
+  - branch_id:
+      default:
+      - label: Cash
+        value: CH
+      - label: Invest
+        value: WS
+      - label: Trade
+        value: TR
+  - so_account_type:
+      default:
+      - label: CA_INDIVIDUAL
+        value: CA_INDIVIDUAL
+      - label: CA_TFSA
+        value: CA_TFSA
+      - label: CA_FAMILY_RESP
+        value: CA_FAMILY_RESP
+      - label: CA_INDIVIDUAL_RESP
+        value: CA_INDIVIDUAL_RESP
+      - label: CA_JOINT
+        value: CA_JOINT
+      - label: CA_CORPORATE
+        value: CA_CORPORATE
+  - Aggregation:
+      default:
+      - Daily
+  - Date Range:
+      default:
+      - 60 Days
+dashboard_preferences:
+  settings:
+    owner: mkong@wealthsimple.com
+disable_filters: false
+display_name: Account Opening

@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: pantheon-satori
+display_name: '% Accounts Opened < 1 minute ("automatically")'
+encrypted_definition: 3y3ddjETnkIWh+NY93/Qq1hqfZBP4ysd3jxPyBkEyupSG/rUKDLaT56slIjWkrEQnrkeR+T09S5D1JZI12RZ7FdwObJyFJqG3Zp+QeEq+K8/e2Y+3X7YdgcL42NUfMGaq8xOfUzEx7EJYOkab1nCd803u0ikZWlBmkrXdm1ZLpY4pk2IQ+JDQPxO0u994FLPSFPkbINfn28oTqxPZ0tSdUpw9UNM8zz5xC7sY+APWCGHwAmyAzz908lfqaxdZv+gOrE9XI5/94kLk2lH7+4HNjNzhh4GxQ0Xb6SdedhzBDZvlBjUV6zUzM7vuDu8WPQv7aR+c+pSvpRRoWMIgE2tZX9JTKqursoiaqsVZ//QVIAkXAHrxW1tc/pcxF4hWFgUdpMbC0vAh3XrfDSpmOq62iJz7rOBlrigPfi/yunGRTji7Lzt8macojhB/Bfk+Q8O+G6lje/aJLiIW8Q+ft8vpQVEzNN6krMC8BZ1uL+ZkF49Cx/BDndoisGNO2VGAYkZhfqY387rW+/zIEKlGdASeM5yU9jYR+6/RJe+Uc38jefDvRdDVmgOLxO0IZGkkOS7vDVzzJ02Iom+Q/69s7tq8ySXBNoj9rfMHv02Abs3E6OI9PmNgMT/hpGFfOzxq3D+sYrgxUz2as2TGsDSxWH54wYrOu5GQaNjBzQDxS6hwNUjg73LoeV7M5WCdxWeR1dg
+position:
+  left: 0
+  top: 13
+size:
+  height: 10
+  width: 29

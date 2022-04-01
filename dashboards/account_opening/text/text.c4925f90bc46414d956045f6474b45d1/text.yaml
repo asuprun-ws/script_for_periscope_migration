@@ -1,0 +1,12 @@
+chart_type: Text Box
+database_name: pantheon-satori
+display_name: text
+encrypted_definition: QSnTvOQym6/BbJ55wI0qHn1z42RJCh0tVSOdFSuAUMIAE78eRBBb1gisUR9hHITw3RArpLbn8YeDv3snENrslPH3wpF53yVYM5x0yXC5yE48ROKSK5NExeI3S22FzQv9NUMtz5o3GE2LFGyDATWD0XiEs7PBSgf6gQmKYU7wNr0GtTxq/nY6XM9TGbgZOwHqbudCUNMTCUr9ddJc/dkA250x1VZxzVQdgleZwRTJ2CPRbFlFzH2fzWPMkazHAQJO
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 0
+size:
+  height: 3
+  width: 43

@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: pantheon-satori
+display_name: Percent of Accounts Reopened Timeseries
+encrypted_definition: HFk998bhwmAyh0IW9FyILqOVDVcmsZYZ3t0RizAZX2MSRRwX+VnsHSf9Jn5S1bBnGKoqscnPVRYnq7MBdUjmQDu4Ed6UdmkQB69aMFkkaG8km9h5FMZAfzvQyxnRqKtC4Bipy+cdayImMoNSdyLjHlvSIZJUAIplLk4kuX6rPM+VSphYTArTIEwBm/r67NZcW7SINjJqhmcXPbLg5bLqgqt4BbO6aMs6HVyTkTj8t4ULuM2+ghusjBW0L0OJrvBeyVDwHtx2fc6MBEAnOi0cf6TMHPZZ5LwGH1f3s9LstbBCpNcNAWZg5S6C+6VD7vC9O6QH6DOMtAIDgInpBw7NiZ83U1LyvJKEsViULgCQDjhYRb2XgoWEhhdX8quf20VIwuE9tzicef8MMeoBXgEu5A==
+position:
+  left: 0
+  top: 79
+size:
+  height: 10
+  width: 30

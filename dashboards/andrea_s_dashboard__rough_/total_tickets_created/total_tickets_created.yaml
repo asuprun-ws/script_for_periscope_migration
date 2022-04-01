@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: pantheon
+display_name: Total Tickets Created
+encrypted_definition: XX9pWwDEjz0grz3U278mr8vaKjPhV0SzsROhtX8wvYwR7e9TlHUIRLhFa75EIXl6DsJW7ixlRCjDFwsXHO2+o2ewv1lKZ+IWg/JBXJfXLWHLxsd+TBzd69sPw1VcsgdrF+R3t/BaBKi+kplHO2LAvwPh27XcfzOfQlyEK9WrVEScYoTFde/JfRdhlCCM1qsfJhOSxk3k9lR+90XH2xs1PTVRWbwyf8w5bIDbPGCmLDJaT49UQxFz3hSf0ZRkdVrs5IunEg0Tgxhzvbh3v4SDSpuHGfu1jd856uzOX4EAIphUXXfWuJO5y07OzGPhQm+zZJU4r+xOGvP7Z3qUGb+OYQ==
+position:
+  left: 0
+  top: 0
+size:
+  height: 10
+  width: 23

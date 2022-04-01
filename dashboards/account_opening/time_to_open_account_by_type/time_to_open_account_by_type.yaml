@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: pantheon-satori
+display_name: Time to Open Account by Type
+encrypted_definition: TS9ZL5wrvFzul9+lmZlN35+MtuyDa8eN7fXt6lijtHzMNOMokzvy0YKN/e7J+gdI75i+M051UZb7umTthy2gSILSu8tz8AuOq32kTcdWnK2bfAEujFwxpIa/xbS4JHlJRBp5W3Q2l/6BUXmmDBCz9VGIsyV+3+KL2Yaxs4XK3sph/Fzs5n0R0HgGtWFB9uIlVHFE5u0/FmEUDBZMuYeK7Pl2o2PU5+N2WlTjJtPdWBKxf2UDPMSf4NuHEYfNuVeidMuBL1pXklrWl5P6OVFDYxNA/jZAH7+PCFyd2XcK2pwG5jJoJ51Hjh8d1Eh4ro6w2zpawdqVMl5K6YYI761D4Hnc3S/FwwmFnWpRZ1x+hHKXpvtmt+U/7oKO1qJ+u1n1INqa3lsk03//ZYiEFyurk4VQbRorzyIA8Q5UFUSO24ej+KT9Ic/iDPox0Ao8kKV8
+position:
+  left: 0
+  top: 200
+size:
+  height: 12
+  width: 30

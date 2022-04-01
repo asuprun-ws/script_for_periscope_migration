@@ -1,0 +1,12 @@
+chart_type: Table
+database_name: microservices
+display_name: YTD Request Tickets
+encrypted_definition: HqMvsQzIayYjTuF/K5g/d0yU7q+c0OZLN1xtFAhyOeZGENkddExtMu09NYKQGeGE9ib086of+y2HaloNc/wLBq6tmKzY35ZDevQbHO9HPiD5Ijq2PUdQ/a7QisY2UO3JNWAvUj132/xGm/POytxTOwdfkAynilh7XWxRwElPlOJwfiDlkmw/aauh4weY32O2x9iNXSkj67GxFDXCVws5efOjWA3rZ3fthw3FnT8v3oZPynIV8QJ7TLI4WaOK7NXGp61E13O7fuSFNvvPNTJu8Xtwvoi3KnB9Ulx7lvwidV4Oj2n3eFVqJJ9YwcGwLsElTnkWHLZ/AZUwS4QzcbDX9XUXA3wDWM7/UWlBJP63HI+9LRbx+cPNO3yHXiBejLdNV4GXIhcI8RyhsWzEfQdy+FBAQw6Boj7RMR94YzscBWMGD05MxZk36zMuTNmIu8s7
+limit_preview:
+  rows: 10
+position:
+  left: 0
+  top: 10
+size:
+  height: 11
+  width: 12

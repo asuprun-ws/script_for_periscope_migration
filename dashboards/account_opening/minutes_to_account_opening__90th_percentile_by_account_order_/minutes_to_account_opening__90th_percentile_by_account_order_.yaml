@@ -1,0 +1,11 @@
+chart_type: Line
+color_theme: Periscope Theme
+database_name: pantheon-satori
+display_name: Minutes to Account Opening (90th percentile by account order)
+encrypted_definition: 0f5yPpSXjMUnDbgAWI6pcJvR/Mo169iMSn6Q4/cCGsm7MzfQTIPmniWkFpTIjF7xy82KX7SxTCx+PxLeiNLvbCJcRZAcZtg8Qoz2nsnMr5DtDKzabmTB2IJwk0ruFE3qd/APZi4XBqDRvTZ33jLOUeJgHEjwGGAujm2wFn6jMXJK3CwVN9PlJi5wRYo+Z1dx3qJJBLLNplX0I2OoJeQpdWeC2GItiKvLOXStCA/UQJQ4mupszmOQrWm0zmdXLTrbIYOeuZk6+sQrB8mVkroV4lqUb2WuFySCKZ2KpScTo2Y3vBM7wBN44WjOxE+nnx3r+oT6BZHriuZIDuasLJiJVSE84uz/HZHAMc+oK2X5SGaIrMe89gwy7rPnCW3XPcglp8hUE7OBJb4FPAJBxrI6JqoDumsmyOe7y+m4ZuS5Tub+afubGd0+eimqWw1WD391s9N1LvGY0AO+8nSh/FCRueoPjQWFqUY5bgy4hBNm1ZJXRkPxQOjaFvAbQpE2M2UbSlNoZL52dmQCMiYyYTte/5kcqJhiIMAHqtg0cmWF75Z2u+dLqxv6yIPT20T3ox+YyyBkCrpVBGhrU6S+T3rjqOCp1x0oI3VNWNTYDNM07rPMfCy73B9BwJJt1Ly3dHC5HoxQlVClQKvXwmzIj71GuA==
+position:
+  left: 21
+  top: 23
+size:
+  height: 10
+  width: 22

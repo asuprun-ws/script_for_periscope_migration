@@ -1,0 +1,10 @@
+chart_type: Area
+database_name: pantheon-satori
+display_name: 'Accounts by Type (in filter): Time to Open'
+encrypted_definition: F/XgixjQwJqA5jN65fPXqfKjPQMCdbx4BRWcJYzonW8bcsWCj2n8B6XWTVJ+MgFz/widVarhO/rj30hywl4ffNsJK43oillmWIKbRgAsU8out3YmVh6fEJUtcElRH1g/zY3+KplBIt3CF44Tn632Tf5FIpduti/R/Wu+dQEI4mjFItxPVeudS6OBqK0JgQPYKtnbShIb8YNM1eJ7Ai3POPBF9jyI/rXKJntBPDz/XH1wR6pWG23CYLwmrWEAG3JcFyPFNYNuvwSccNLrZj0GoZzImx8ze30wtCK3VFd5pSNXbzfbOpETlIvymRWoaLkMKIUMKgAMCXb+uzVBfQLxeLEsbcFwzC76Gx3ndrJqkPqJLS8WQqNqS+rMkWFhMjyQxF89x0SyJPWvTcwiw93NrzNVHLfuq7f8JBXiqZ63plHZ6vQAbE+BlDTkFjWbKOxr6QyRSDRuAd/XqS/qEQKUlt/7+0nTOAgOWNH7AwKakJu2p6a0wqHIApvptMBhX2uZTX1WTnygvsZ9/jukvoWZt2JutXHC8nCSKDK2ZqICy1kA1KuGyAOcyXmQHpHxlf/lsPiXvZZhyIKNKVNkGJYh8oZQSf+z3YYF8nMT5fkm9qSCuzNw1F9d4AwAybMgu9bm8vXS6xSQyh72V6RasY+Q/XZUQatEWgKKzhdDkyknCipcUBbuodGFwPed5etasBDR
+position:
+  left: 22
+  top: 70
+size:
+  height: 9
+  width: 21

@@ -1,0 +1,9 @@
+Database Name: pantheon-satori
+Settings:
+  Exclude from Auto-Archive: true
+  Materialize View: false
+  Metadata:
+    Owner: athauer@wealthsimple.com
+    Tags:
+    - money-mvmt
+  Publish as Dataset: true

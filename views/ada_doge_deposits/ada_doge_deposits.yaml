@@ -1,0 +1,5 @@
+Database Name: microservices
+Settings:
+  Materialize View: false
+  Metadata:
+    Owner: tlui@wealthsimple.com

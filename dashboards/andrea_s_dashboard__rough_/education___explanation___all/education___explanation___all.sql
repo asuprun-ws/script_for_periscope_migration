@@ -1,0 +1,4 @@
+select value, count(value), date_trunc('month',_sdc_received_at)
+from zendesk.tickets__tags
+where (value = 'genq_trade_holidayorders' or value ='genq_trade_availabletradevswithdraw' or value = 'genq_trade_tfroutwithdrawfee' or value = 'genq_trade_clearing' or value = 'genops_trade_googleplaydownload' or value = 'genq_trade_nonregbene' or value = 'genq_depositdelayao' or value = 'genq_trade_whatscds' or value = 'trade_order_bidaskspread' or value = 'genq_trade_limitcancelledeod' or value = 'genq_afterhoursmktordercancelled' or value = 'genq_trade_tradevsinvest' or value ='genq_fillpricebidask' or value ='genq_delayedquotefillprice' or value = 'genq_trade_loginsignup' or value ='genq_trade_depositiming' or value = 'genq_trade_holidaydeposittiming' or value = 'genq_depositdelaybanking' or value = 'reqops_trade_canceldeposit' or value = 'genq_trade_canceldeposit' or value = 'genq_trade_volumecantfillorder')
+group by 1, 3

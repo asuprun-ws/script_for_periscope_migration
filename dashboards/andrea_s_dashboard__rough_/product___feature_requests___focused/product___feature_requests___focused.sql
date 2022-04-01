@@ -1,0 +1,4 @@
+select value, count(value), date_trunc('month',_sdc_received_at)
+from zendesk.tickets__tags
+where (value = 'request_trade_tradewsinttransfer' or value ='request_trade_transferin' or value = 'request_trade_regacct' or value = 'request_trade_desktop' or value = 'request_trade_manualbankacct' or value = 'request_trade_usd' or value = 'request_trade_rtpricing' or value = 'request_trade_mergeprofiles' or value = 'request_trade_ordertype' or value = 'request_trade_shortsell' or value = 'request_trade_jointacct' or value = 'request_trade_corpacct' or value ='genq_trade_partialshares' or value = 'trade_autoresponse_disney' or value ='request_trade_internaltransfers' or value = 'genq_trade_desktopnottrade' or value = 'request_trade_autodeposit' or value = 'request_trade_drip')
+group by 1, 3
